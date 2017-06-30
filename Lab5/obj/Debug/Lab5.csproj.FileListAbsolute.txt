@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2017\Projects\Lab5\Lab5\bin\Debug\Lab5.exe.config
+c:\users\student\documents\visual studio 2017\Projects\Lab5\Lab5\bin\Debug\Lab5.exe
+c:\users\student\documents\visual studio 2017\Projects\Lab5\Lab5\bin\Debug\Lab5.pdb
+c:\users\student\documents\visual studio 2017\Projects\Lab5\Lab5\obj\Debug\Lab5.exe
+c:\users\student\documents\visual studio 2017\Projects\Lab5\Lab5\obj\Debug\Lab5.pdb
+c:\users\student\documents\visual studio 2017\Projects\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
